@@ -1,5 +1,5 @@
 ---
-title: John Wick (1986 film)
+title: John Wick (2014 film)
 date: 1583777940720
 description: John Wick loses his wife Helen to a terminal illness. Struggling to cope with her loss, he receives a beagle puppy named Daisy from her before she died, to help him cope with his grief. Despite John's stoic demeanor, he bonds with the puppy and they spend their day driving around in his vintage 1969 Ford Mustang Mach 1.
 ---
