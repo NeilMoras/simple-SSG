@@ -5,7 +5,8 @@
     [headers.values]
       X-Frame-Options = "DENY"
       X-XSS-Protection = "1; mode=block"
-      Content-Security-Policy = "default-src 'self'";
-      X-Content-Type-Options = "nosniff"
-      Referrer-Polic =  "strict-origin-when-cross-origin"
-      Permissions-Policy = "geolocation=(self), microphone=(), camera=(), fullscreen=*"
+      cache-control = '''
+    	max-age=0,
+  	  no-cache,
+  	  no-store,
+  	  must-revalidate'''
